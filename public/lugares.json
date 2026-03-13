@@ -1,0 +1,1600 @@
+[
+    {
+      "id": 1,
+      "nombre": "Hotel el Carmen",
+      "tipo": "hotel",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Ubicado en la zona urbana, es un refugio encantador para el descanso y el turismo de naturaleza local.",
+      "valor": "Según temporada",
+      "enlace": "",
+      "imagen": "hotel_carmen.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Carupa Glamping",
+      "tipo": "glamping",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Ofrece una experiencia de conexión con la naturaleza en un entorno rural y tranquilo.",
+      "valor": "Desde $150.000 COP aprox.",
+      "enlace": "",
+      "imagen": "carupa_glamping.jfif"
+    },
+    {
+      "id": 3,
+      "nombre": "Posada El Molino de San Luis",
+      "tipo": "hotel",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Casa colonial cerca de Ubate, ideal para descanso rural y naturaleza tradicional.",
+      "valor": "Desde $130.000 COP por persona",
+      "enlace": "",
+      "imagen": "posada_molino.jfif"
+    },
+    {
+      "id": 4,
+      "nombre": "Viviendas Turísticas Carupaglam",
+      "tipo": "glamping",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Alojamiento rural y campamento bajo contacto directo con la naturaleza.",
+      "valor": "Directamente",
+      "enlace": "",
+      "imagen": "carupaglam.jfif"
+    },
+    {
+      "id": 5,
+      "nombre": "Restaurante La Frontera",
+      "tipo": "gastronomia",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Destaca por su conejo al horno y el churrasco, en un ambiente campestre.",
+      "valor": "Entre $30.000 y $40.000 COP",
+      "enlace": "",
+      "imagen": "la_frontera.jfif"
+    },
+    {
+      "id": 6,
+      "nombre": "Restaurante Donde Fabiola",
+      "tipo": "gastronomia",
+      "municipio": "Ubate",
+      "descripcion": "Platos típicos locales, incluyendo gallina campesina y recetas tradicionales.",
+      "valor": "Directamente",
+      "enlace": "",
+      "imagen": "donde_fabiola.jfif"
+    },
+    {
+      "id": 7,
+      "nombre": "Hotel y Restaurante El Carmen",
+      "tipo": "gastronomia",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Restaurante dentro del hotel principal, especializado en comida campesina.",
+      "valor": "",
+      "enlace": "",
+      "imagen": "hotel_carmen.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Yerbabuena Café-Bar",
+      "tipo": "gastronomia",
+      "municipio": "Ubate",
+      "descripcion": "Café-bar con bebidas calientes, vino caliente, sándwiches y ambiente acogedor.",
+      "valor": "Directamente",
+      "enlace": "",
+      "imagen": "yerbabuena.jfif"
+    },
+    {
+      "id": 9,
+      "nombre": "Restaurante y Asadero Mi Tolima    ",
+      "tipo": "gastronomia",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Especialidad: Carne asada, chicharrón y platos tipo asadero    ",
+      "valor": "Según temporada",
+      "enlace": "",
+      "imagen": "restaurante_y_asadero.jfif"
+    },
+    {
+      "id": 10,
+      "nombre": "Parroquia Nuestra Señora del Carmen",
+      "tipo": "religioso",
+      "municipio": "Carmen de Carupa",
+      "descripcion": " Posee un estilo colonial muy marcado y bien conservado. Recientemente, a finales de 2025, el templo pasó por procesos de remodelación para mantener su estructura    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "carupa_parroquia.jfif"
+    },
+    {
+      "id": 11,
+      "nombre": "Santuario del Cerro de Chegua    ",
+      "tipo": "religioso",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Es el sitio de peregrinación por excelencia en el municipio. En su cima se encuentra una pequeña capilla dedicada también a la Virgen del Carmen.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "santuari carupa.jfif" 
+    },
+    {
+      "id": 12,
+      "nombre": "Capilla de Cabrera    ",
+      "tipo": "religioso",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Una joya religiosa rura Es una construcción sencilla y hermosa que refleja la fe de las comunidades campesinas de la zona.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "capilla_carupa.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Cerros de Santurio y Santuaria",
+      "tipo": "religioso",
+      "municipio": "Carmen de Carupa",
+      "descripcion": " Estas formaciones montañosas también guardan una estrecha relación con la tradición local y son visitadas tanto por motivos religiosos como por su valor paisajístico.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "cerro_carupa.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Parque Embalse El Hato    ",
+      "tipo": "naturaleza",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Ofrece zonas de camping con servicios de ducha de agua caliente, pesca deportiva, navegación, senderismo y áreas para picnic y asados.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "embalse_carupa.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Cerro de Chegua    ",
+      "tipo": "naturaleza",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Senderismo: Es una ruta popular para caminantes y deportistas. Se recomienda ir bien abrigado y llevar suministros propios, ya que no hay tiendas en el ascenso.     ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "cerro_carupa.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Casco Urbano y Parque Principal",
+      "tipo": "naturaleza",
+      "municipio": "Carmen de Carupa",
+      "descripcion": "Agradable ambienta para poder observar. No olvidar que te debes de abrigar bien",
+      "valor":false,
+      "enlace": "",
+      "imagen": "parque_carupa.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Hotel La Esperanza    ",
+      "tipo": "hotel",
+      "municipio": "Cucunuba",
+      "descripcion": "Casona colonial clásica en el marco del parque principal. Ambiente familiar.    ",
+      "valor": "$150.000 - $220.000    ",
+      "enlace": "",
+      "imagen": "hotel_cucunuba.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Glamping El Nido",
+      "tipo": "glamping",
+      "municipio": "Cucunuba",
+      "descripcion": "Domos de lujo con vista al valle. Muy buscado por parejas.    .",
+      "valor": "$450k - $700k    ",
+      "enlace": "",
+      "imagen": "cucunuba_glamping.jfif"
+    },
+    {
+      "id": 19,
+      "nombre": "Hotel Valle de los Halcones    ",
+      "tipo": "hotel",
+      "municipio": "Cucunuba",
+      "descripcion": "Enfocado en naturaleza y turismo de aventura y escaladores.    ",
+      "valor": "$150k - $240k    ",
+      "enlace": "",
+      "imagen": "cucunuba_alcones.jfif"
+    },
+    {
+      "id": 20,
+      "nombre": "Posada Campestre El Chivita    ",
+      "tipo": "hotel",
+      "municipio": "Cucunuba",
+      "descripcion": "Ambiente rural auténtico, ideal para desconexión total.    ",
+      "valor": "$120k - $180k    ",
+      "enlace": "",
+      "imagen": "chivita.jfif"
+    },
+    {
+      "id": 21,
+      "nombre": "Hostal de la Villa    ",
+      "tipo": "hotel",
+      "municipio": "Cucunuba",
+      "descripcion": "Opción económica y acogedora cerca del centro histórico.    ",
+      "valor": "$90k - $140k    ",
+      "enlace": "",
+      "imagen": "villa.jfif"
+    },
+    {
+      "id": 22,
+      "nombre": "Cabaña Refugio del Viento    ",
+      "tipo": "hotel",
+      "municipio": "Cucunuba",
+      "descripcion": "Ubicada en la parte alta, ideal para grupos y clima de montaña.    ",
+      "valor": "Directamente",
+      "enlace": "$300k (Cabaña)    ",
+      "imagen": "cabañas.jfif"
+    },
+    {
+      "id": 23,
+      "nombre": "Lácteos Cucunubá    ",
+      "tipo": "gastronomia",
+      "municipio": "Cucunuba",
+      "descripcion": "El mejor yogur, queso siete cueros y postres de leche.    ",
+      "valor": "$5k - $20k    ",
+      "enlace": "",
+      "imagen": "lacteos.jpg"
+    },
+    {
+      "id": 24,
+      "nombre": "La Despensa de Cucunubá    ",
+      "tipo": "gastronomia",
+      "municipio": "Cucunuba",
+      "descripcion": "Cocina de autor y fusion local.    ",
+      "valor": "$35k - $65k    ",
+      "enlace": "",
+      "imagen": "despensa.jfif"
+    },
+    {
+      "id": 25,
+      "nombre": "El Sabor de la Abuela    ",
+      "tipo": "gastronomia",
+      "municipio": "Cucunuba",
+      "descripcion": "Piquete boyacense, gallina y sopa de rullas.    ",
+      "valor": "$25k - $45k    ",
+      "enlace": "",
+      "imagen": "abuela.jfif"
+    },
+    {
+      "id": 26,
+      "nombre": "Restaurante San Luis"    ,
+      "tipo": "gastronomia",
+      "municipio": "Cucunuba",
+      "descripcion": " Comida típica tradicional a la leña.    ",
+      "valor": "$20k - $40k",
+      "enlace": "",
+      "imagen": "san_luis.jfif"
+    },
+    {
+      "id": 27,
+      "nombre": "Café El Búho    ",
+      "tipo": "gastronomia",
+      "municipio": "Cucunuba",
+      "descripcion": "Café de origen y repostería artesanal.    ",
+      "valor": "$8k - $20k    ",
+      "enlace": "",
+      "imagen": "buho.jfif" 
+    },
+    {
+      "id": 28,
+      "nombre": "Pizzería Artesanal (Varios)    ",
+      "tipo": "gastronomia",
+      "municipio": "Cucunuba",
+      "descripcion": "Pizzas en horno de leña (tendencia reciente).    ",
+      "valor": "$25k - $50k    ",
+      "enlace": "",
+      "imagen": "pizza.jpg"
+    },
+    {
+      "id": 29,
+      "nombre": "parroquia Divino Salvador    ",
+      "tipo": "religioso",
+      "municipio": "Cucunuba",
+      "descripcion": " Templo principal con retablos coloniales y fachada en piedra.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "parroquia_cucunuba.jpg"
+    },
+    {
+      "id": 30,
+      "nombre": "Capilla del Cerro de Lourdes    ",
+      "tipo": "religioso",
+      "municipio": "Cucunuba",
+      "descripcion": "Lugar de peregrinación con la mejor vista panorámica del pueblo.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "capilla_cucunuba.jpg"
+    },
+    {
+      "id": 31,
+      "nombre": "Capilla de la Vereda Peñas    ",
+      "tipo": "religioso",
+      "municipio": "Cucunuba",
+      "descripcion": "Pequeña capilla rural que sirve a la comunidad campesina.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "capilla_peñas.jpg"
+    },
+    {
+      "id": 32,
+      "nombre": "Cementerio Municipal    ",
+      "tipo": "religioso",
+      "municipio": "Cucunuba",
+      "descripcion": "Destaca por su orden y las lápidas antiguas talladas.    ",
+      "valor":false,
+      "enlace": "",
+      "imagen": "cementerio_cucunuba.jpg"
+    },
+    {
+      "id": 33,
+      "nombre": "Valle de los Halcones    ",
+      "tipo": "naturaleza",
+      "municipio": "Cucunuba",
+      "descripcion": "Escalada en roca (más de 100 rutas), camping.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "valle.jfif" 
+    },
+    {
+      "id": 34,
+      "nombre": "Talleres de Tejidos    ",
+      "tipo": "naturaleza",
+      "municipio": "Cucunuba",
+      "descripcion": "Ver el tejido de ruanas en telares de madera.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "talleres.jpg"
+    },
+    {
+      "id": 35,
+      "nombre": "Laguna de Cucunubá    ",
+      "tipo": "naturaleza",
+      "municipio": "Cucunuba",
+      "descripcion": " Observación de aves y fotografía    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "laguna_cucunuba.jpg"
+    },
+    {
+      "id": 36,
+      "nombre": "Minas de Carbón    ",
+      "tipo": "naturaleza",
+      "municipio": "Cucunuba",
+      "descripcion": "Recorridos pedagógicos (con permiso).    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "minas_cucunuba.jpg"
+    },
+    {
+      "id": 37,
+      "nombre": "Cerro de las Tres Cruces    ",
+      "tipo": "naturaleza",
+      "municipio": "Cucunuba",
+      "descripcion": "Trekking exigente y fotografía.    ",
+      "valor": false,
+      "enlace": "",
+      "imagen": "cerro_tres_cruces.jpg"
+    },
+    {
+      "id": 38,
+      "nombre": "Parque Principal    ",
+      "tipo": "naturaleza",
+      "municipio": "Cucunuba",
+      "descripcion": "Caminata tranquila, fotos arquitectónicas.    ",
+      "valor":false,
+      "enlace": "",
+      "imagen": "parque_cucunuba.jpg"
+    },
+  
+      {
+        "id": 39,
+        "nombre": "Glamping Isla del Sol",
+        "tipo": "glamping",
+        "municipio": "Fuquene",
+        "descripcion": "Ubicado cerca de la laguna, ofrece una experiencia de desconexión total.",
+        "valor": "$350.000 - $500.000",
+        "enlace": "",
+        "imagen": "glamping_isla.jpg"
+      },
+      {
+        "id": 40,
+        "nombre": "hotel El Mirador de la Laguna",
+        "tipo": "hotel",
+        "municipio": "Fuquene",
+        "descripcion": "Posada sencilla con la mejor vista panorámica del espejo de agua.",
+        "valor": "$100.000 - $160.000",
+        "enlace": "",
+        "imagen": "hotel_laguna.jpg"
+      },
+      {
+        "id": 41,
+        "nombre": "Refugio La Playita",
+        "tipo": "hotel",
+        "municipio": "Fuquene",
+        "descripcion": "Zona de camping y cabañas rústicas a orillas del agua.",
+        "valor": "$60.000 - $150.000",
+        "enlace": "",
+        "imagen": "refugiplayita.jpg"
+      },
+      {
+        "id": 42,
+        "nombre": "Finca Hotel Los Alisos",
+        "tipo": "hotel",
+        "municipio": "Fuquene",
+        "descripcion": "Alojamiento de agronaturaleza en la zona rural del municipio.",
+        "valor": "$140.000 - $200.000",
+        "enlace": "",
+        "imagen": "fincahotel.jpg"
+      },
+      {
+        "id": 43,
+        "nombre": "Restaurante La Cabaña de la Trucha",
+        "tipo": "gastronomia",
+        "municipio": "Fuquene",
+        "descripcion": "Especialistas en trucha en diversas preparaciones (al ajillo, frita). Vía principal",
+        "valor": "$25.000 - $45.000",
+        "enlace": "",
+        "imagen": "restaurantecabaña.jpg"
+      },
+      {
+        "id": 44,
+        "nombre": "Parador Turístico de la Laguna",
+        "tipo": "gastronomia",
+        "municipio": "Fuquene",
+        "descripcion": "Ideal para desayunos con caldo de costilla y arepa boyacense. Orillas de la Laguna",
+        "valor": "$15.000 - $30.000",
+        "enlace": "",
+        "imagen": "paradorturístico.jpg"
+      },
+      {
+        "id": 45,
+        "nombre": "Postres y Lácteos fuquene",
+        "tipo": "gastronomia",
+        "municipio": "Fuquene",
+        "descripcion": "Famosos por su cuajada con melao y quesos frescos de la región. Entrada al pueblo CAPELLANIA",
+        "valor": "$5.000 - $15.000",
+        "enlace": "",
+        "imagen": "Lacteosfuquene.jpg"
+      },
+      {
+        "id": 46,
+        "nombre": "parroquia San Isidro de fuquene",
+        "tipo": "religioso",
+        "municipio": "Fuquene",
+        "descripcion": "Templo colonial que resguarda la fe del municipio desde su fundación. Parque Principal",
+        "valor": "N/A",
+        "enlace": "",
+        "imagen": "parroquiafuquene.jpg"
+      },
+      {
+        "id": 47,
+        "nombre": "santuario de la Virgen de la Salud",
+        "tipo": "religioso",
+        "municipio": "Fuquene",
+        "descripcion": "Lugar de gran devoción local, visitado por habitantes de toda la provincia. Vereda Guatancuy",
+        "valor": "N/A",
+        "enlace": "",
+        "imagen": "santuariofuquene.jpg"
+      },
+      {
+        "id": 48,
+        "nombre": "Gruta de la Inmaculada",
+        "tipo": "religioso",
+        "municipio": "Fuquene",
+        "descripcion": "Espacio de oración ubicado en una zona elevada con vista al valle. Sector periférico",
+        "valor": "N/A",
+        "enlace": "",
+        "imagen": "grutainmaculada.jpg"
+      },
+      {
+        "id": 49,
+        "nombre": "Laguna de fuquene",
+        "tipo": "naturaleza",
+        "municipio": "Fuquene",
+        "descripcion": "Paseos en lancha, avistamiento de aves y fotografía. Antiguo lugar sagrado para los Muiscas.",
+        "valor": "Variable",
+        "enlace": "",
+        "imagen": "laguna_fuquene.jpg"
+      },
+      {
+        "id": 50,
+        "nombre": "Talleres de Junco y Enea",
+        "tipo": "naturaleza",
+        "municipio": "Fuquene",
+        "descripcion": "Aprender a tejer canastos, esteras y figuras decorativas. Oficio ancestral.",
+        "valor": "Variable",
+        "enlace": "",
+        "imagen": "talleresjunco.jpg"
+      },
+      {
+        "id": 51,
+        "nombre": "Cerro de la Virgen",
+        "tipo": "naturaleza",
+        "municipio": "Fuquene",
+        "descripcion": "Senderismo y mirador natural hacia el valle de Ubate. Punto estratégico colonial.",
+        "valor": "Gratuito",
+        "enlace": "",
+        "imagen": "cerrovirgen.jpg"
+      },
+      {
+        "id": 52,
+        "nombre": "Isla de santuario      ",
+        "tipo": "naturaleza",
+        "municipio": "Fuquene",
+        "descripcion": "Recorrido histórico y observación de fauna endémica.      ",
+        "valor": "Variable",
+        "enlace": "",
+        "imagen": "isla.jpg"
+      },
+      {
+        "id": 53,
+        "nombre": "Mercado de Artesanías      ",
+        "tipo": "naturaleza",
+        "municipio": "Fuquene",
+        "descripcion": "Compra de productos tejidos y lácteos frescos.      ",
+        "valor": "Directamente",
+        "enlace": "",
+        "imagen": "mercadojpg"
+      },
+  
+  {
+          "id": 54,
+          "nombre": "Glamping El Pino",
+          "tipo": "glamping",
+          "municipio": "Guacheta",
+          "descripcion": "Eco-hotel de lujo con jacuzzis privados y cabalgatas por la montaña.",
+          "valor": "$280.000 - $450.000",
+          "enlace": "",
+          "imagen": "glampingpino.jpg"
+  },
+  {
+          "id": 55,
+          "nombre": "Hotel Labranza del Mancebo",
+          "tipo": "hotel",
+          "municipio": "Guacheta",
+          "descripcion": "Ubicado en el casco urbano, es sencillo, limpio y de precio accesible.",
+          "valor": "$80.000 - $120.000",
+          "enlace": "",
+          "imagen": "hotellabranza.jpg"
+  },
+  {
+          "id": 56,
+          "nombre": "hotel Villa Tránsito",
+          "tipo": "hotel",
+          "municipio": "Guacheta",
+          "descripcion": "Enfocado en naturalezafamiliar y descanso campestre.",
+          "valor": "$100.000 - $150.000",
+          "enlace": "",
+          "imagen": "hotelvilla.jpg"
+  },
+  {
+          "id": 57,
+          "nombre": "Finca Hotel La Lucerna",
+          "tipo": "hotel",
+          "municipio": "Guacheta",
+          "descripcion": "Experiencia de agronaturaleza en una hacienda tradicional.",
+          "valor": "$150.000 - $220.000",
+          "enlace": "",
+          "imagen": "fincahotelguacheta.jpg"
+  },
+  {
+          "id": 58,
+          "nombre": "Restaurante Terraporky",
+          "tipo": "gastronomia",
+          "municipio": "Guacheta",
+          "descripcion": "Especialistas en carnes a la parrilla y platos típicos en ambiente rústico. Casco Urbano",
+          "valor": "$25.000 - $50.000",
+          "enlace": "",
+          "imagen": "restauranteterraporky.jpg"
+  },
+  {
+          "id": 59,
+          "nombre": "Piqueteadero El Minero",
+          "tipo": "gastronomia",
+          "municipio": "Guacheta",
+          "descripcion": "Fritanga completa, chanfaina y gallina criolla (plato insignia). Zona comercial",
+          "valor": "$20.000 - $35.000",
+          "enlace": "",
+          "imagen": "piqueteaderominero.jpg"
+  },
+  {
+          "id": 60,
+          "nombre": "Amasijos Guachetá",
+          "tipo": "gastronomia",
+          "municipio": "Guacheta",
+          "descripcion": "Garullas, envueltos de mazorca y pan de maíz recién horneado. Plaza Principal",
+          "valor": "$2.000 - $10.000",
+          "enlace": "",
+          "imagen": "amasijosguachetá.jpg"
+  },
+  {
+          "id": 61,
+          "nombre": "Comidas Rápidas La Z y la L",
+          "tipo": "gastronomia",
+          "municipio": "Guacheta",
+          "descripcion": "Opción de platos mixtos, carnes y hamburguesas artesanales. Centro",
+          "valor": "$15.000 - $30.000",
+          "enlace": "",
+          "imagen": "comidasrápidas.jpg"
+  },
+  {
+          "id": 62,
+          "nombre": "parroquia San Gregorio Magno",
+          "tipo": "religioso",
+          "municipio": "Guacheta",
+          "descripcion": "Construida en honor al santo cuya fiesta coincidió con la llegada de los españoles. Parque Principal",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "parroquia_guacheta.jpg"
+  },
+  {
+          "id": 63,
+          "nombre": "santuario de Nuestra Señora del Tránsito",
+          "tipo": "religioso",
+          "municipio": "Guacheta",
+          "descripcion": "Patrona del municipio. Es un lugar de peregrinación con gran vista. Cerro de La Virgen",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "santuariotransito.jpg"
+  },
+  {
+          "id": 64,
+          "nombre": "Capilla del Divino Niño Jesús",
+          "tipo": "religioso",
+          "municipio": "Guacheta",
+          "descripcion": "Pequeña capilla de arquitectura sencilla muy querida por la comunidad. Sector Urbano",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "capilla_divino.jpg"
+  },
+  {
+          "id": 65,
+          "nombre": "Capilla del Cementerio",
+          "tipo": "religioso",
+          "municipio": "Guacheta",
+          "descripcion": "Destaca por su arquitectura antigua y ambiente de paz. Salida hacia Capellania",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "capilla_guacheta.jpg"
+  },
+  {
+          "id": 66,
+          "nombre": "Páramo del Rabanal",
+          "tipo": "naturaleza",
+          "municipio": "Guacheta",
+          "descripcion": "Senderismo, avistamiento de frailejones y nacimientos de agua. Es una de las reservas hídricas más importantes de la región.",
+          "valor": "Acceso libre",
+          "enlace": "",
+          "imagen": "paramo_rabanal.jpg"
+  },
+  {
+          "id": 67,
+          "nombre": "Cerro del Sol",
+          "tipo": "naturaleza",
+          "municipio": "Guacheta",
+          "descripcion": "Trekking y búsqueda de historias sobre el Cacique Goranchacha. Según la leyenda, los muiscas escondieron tesoros allí.",
+          "valor": "Acceso libre",
+          "enlace": "",
+          "imagen": "cerro_sol.jpg"
+  },
+  {
+          "id": 68,
+          "nombre": "Ruta de las Minas",
+          "tipo": "naturaleza",
+          "municipio": "Guacheta",
+          "descripcion": "Recorridos para conocer la extracción artesanal de carbón, motor económico desde hace décadas.",
+          "valor": "Variable",
+          "enlace": "",
+          "imagen": "ruta_minas.jpg"
+  },
+  {
+          "id": 69,
+          "nombre": "Cerro Naranjito",
+          "tipo": "naturaleza",
+          "municipio": "Guacheta",
+          "descripcion": "Senderismo histórico. Lugar donde se refugió Luis Vargas Tejada tras la Conspiración Septembrina.",
+          "valor": "Acceso libre",
+          "enlace": "",
+          "imagen": "cerro_naranjito.jpg"
+  },
+  {
+          "id": 70,
+          "nombre": "Estaciones del Ferrocarril",
+          "tipo": "naturaleza",
+          "municipio": "Guacheta",
+          "descripcion": "La Isla y El Rabanal. Fotografía y recorrido histórico por Bienes de Interés Cultural.",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "estacionesferrocarril.jpg"
+  },
+  {
+    "id": 71,
+    "nombre": "Árbol de Caucho Emblemático  ",
+    "tipo": "naturaleza",
+    "municipio": "Guacheta",
+    "descripcion": "Parque principal, Descanso y observación.  ",
+    "valor": "Gratuito",
+    "enlace": "",
+    "imagen": "arbol.jpg"
+  },
+  
+    {
+      "id": 72,
+      "nombre": "Hotel Sevilla",
+      "tipo": "hotel",
+      "municipio": "Lenguazaque",
+      "descripcion": "El más grande y tradicional del pueblo. Eventos y restaurante.",
+      "valor": "$80k - $120k",
+      "enlace": "",
+      "imagen": "hotelsevilla.jpg"
+    },
+    {
+      "id": 73,
+      "nombre": "Hotel El Cacique",
+      "tipo": "hotel",
+      "municipio": "Lenguazaque",
+      "descripcion": "Ubicado cerca del centro, habitaciones sencillas y baño privado.",
+      "valor": "$70k - $90k",
+      "enlace": "",
+      "imagen": "hotelelcacique.jpg"
+    },
+    {
+      "id": 74,
+      "nombre": "hotel Las Palmas",
+      "tipo": "hotel",
+      "municipio": "Lenguazaque",
+      "descripcion": "Opción económica para viajeros de paso.",
+      "valor": "$50k - $70k",
+      "enlace": "",
+      "imagen": "hotelpalmas.jpg"
+    },
+    {
+      "id": 75,
+      "nombre": "Residencias La 4ta",
+      "tipo": "hotel",
+      "municipio": "Lenguazaque",
+      "descripcion": "Habitaciones básicas, muy usado por mineros de la zona.",
+      "valor": "$40k - $60k",
+      "enlace": "",
+      "imagen": "residenciasla4ta.jpg"
+    },
+    {
+      "id": 76,
+      "nombre": "Hotel El Gran Minero",
+      "tipo": "hotel",
+      "municipio": "Lenguazaque",
+      "descripcion": "Hostal temático sencillo referente a la minería.",
+      "valor": "$60k - $80k",
+      "enlace": "",
+      "imagen": "hotelminero.jpg"
+    },
+    {
+      "id": 77,
+      "nombre": "Finca Turística El Recreo",
+      "tipo": "hotel",
+      "municipio": "Lenguazaque",
+      "descripcion": "(Sector Rural) Cabaña para grupos y contacto con la naturaleza.",
+      "valor": "$150k+",
+      "enlace": "",
+      "imagen": "fincarecreo.jpg"
+    },
+    {
+      "id": 78,
+      "nombre": "Isabella's Pizza",
+      "tipo": "gastronomia",
+      "municipio": "Lenguazaque",
+      "descripcion": "Pizza artesanal y comida rápida (la más famosa). Cra. 3 #5-02",
+      "valor": "$20k - $45k",
+      "enlace": "",
+      "imagen": "isabellapizza.jpg"
+    },
+    {
+      "id": 79,
+      "nombre": "Rest. El Sabor De Mi Tierra",
+      "tipo": "gastronomia",
+      "municipio": "Lenguazaque",
+      "descripcion": "Almuerzos ejecutivos y sancocho de gallina. Cl. 3",
+      "valor": "$15k - $25k",
+      "enlace": "",
+      "imagen": "restierra.jpg"
+    },
+    {
+      "id": 80,
+      "nombre": "Asadero Donde Pinzón",
+      "tipo": "gastronomia",
+      "municipio": "Lenguazaque",
+      "descripcion": "Pollo asado y carnes a la llanera. Cl. 2a #1-56",
+      "valor": "$20k - $40k",
+      "enlace": "",
+      "imagen": "saderoinzón.jpg"
+    },
+    {
+      "id": 81,
+      "nombre": "Piqueteadero La Cuesta",
+      "tipo": "gastronomia",
+      "municipio": "Lenguazaque",
+      "descripcion": "Fritanga, morcilla y chicharrón. Salida Guachetá",
+      "valor": "$15k - $30k",
+      "enlace": "",
+      "imagen": "piqueteaderocuesta.jpg"
+    },
+    {
+      "id": 82,
+      "nombre": "Restaurante San Luis",
+      "tipo": "gastronomia",
+      "municipio": "Lenguazaque",
+      "descripcion": "Menú del día (Corrientazo) abundante. Centro",
+      "valor": "$12k - $18k",
+      "enlace": "",
+      "imagen": "restauranteluis.jpg"
+    },
+    {
+      "id": 83,
+      "nombre": "Café Bar Punto de Encuentro",
+      "tipo": "gastronomia",
+      "municipio": "Lenguazaque",
+      "descripcion": "Café, bebidas y picadas. Parque principal",
+      "valor": "$5k - $20k",
+      "enlace": "",
+      "imagen": "cafebarencuentro.jpg"
+    },
+    {
+      "id": 84,
+      "nombre": "parroquia San Laureano",
+      "tipo": "religioso",
+      "municipio": "Lenguazaque",
+      "descripcion": "Templo principal. Estilo republicano con frescos internos. Parque Principal",
+      "valor": "N/A",
+      "enlace": "",
+      "imagen": "parroquialaureano.jpg"
+    },
+    {
+      "id": 85,
+      "nombre": "Capilla de San José",
+      "tipo": "religioso",
+      "municipio": "Lenguazaque",
+      "descripcion": "Estructura pequeña de piedra en la vereda Faracia.",
+      "valor": "N/A",
+      "enlace": "",
+      "imagen": "capillajosé.jpg"
+    },
+    {
+      "id": 86,
+      "nombre": "Capilla de la Virgen",
+      "tipo": "religioso",
+      "municipio": "Lenguazaque",
+      "descripcion": "Lugar de oración en la parte alta del pueblo. Parque de la Virgen",
+      "valor": "N/A",
+      "enlace": "",
+      "imagen": "capillavirgen.jpg"
+    },
+    {
+      "id": 87,
+      "nombre": "Capilla Vereda Ramada",
+      "tipo": "religioso",
+      "municipio": "Lenguazaque",
+      "descripcion": "Punto de encuentro religioso para la comunidad rural.",
+      "valor": "N/A",
+      "enlace": "",
+      "imagen": "capillaramada.jpg"
+    },
+    {
+      "id": 88,
+      "nombre": "Mirador el Zaque",
+      "tipo": "naturaleza",
+      "municipio": "Lenguazaque",
+      "descripcion": "Senderismo y la mejor vista del valle de Ubate. Zona alta (250601)",
+      "valor": "Gratuito",
+      "enlace": "",
+      "imagen": "miradorzaque.jpg"
+    },
+    {
+      "id": 89,
+      "nombre": "Parque Principal",
+      "tipo": "naturaleza",
+      "municipio": "Lenguazaque",
+      "descripcion": "Punto de encuentro histórico y comercial. Centro",
+      "valor": "Gratuito",
+      "enlace": "",
+      "imagen": "parqueprincipal.jpg"
+    },
+    {
+      "id": 90,
+      "nombre": "Parque De La Virgen",
+      "tipo": "naturaleza",
+      "municipio": "Lenguazaque",
+      "descripcion": "Espacio de oración y descanso familiar. Cra. 1 #22a 2-76",
+      "valor": "Gratuito",
+      "enlace": "",
+      "imagen": "parquevirgen.jpg"
+    },
+  
+  
+      {
+        "id": 91,
+        "nombre": "Carmesí Smart Glamping",
+        "tipo": "glamping",
+        "municipio": "Simijaca",
+        "descripcion": "Domos inteligentes con domótica, diseño moderno y vistas increíbles.",
+        "valor": "$280.000 - $450.000",
+        "enlace": "",
+        "imagen": "carmesíglamping.jpg"
+      },
+      {
+        "id": 92,
+        "nombre": "Juncos Glamping",
+        "tipo": "glamping",
+        "municipio": "Simijaca",
+        "descripcion": "Experiencia de lujo frente a la laguna, con jacuzzi y total privacidad.",
+        "valor": "$250.000 - $400.000",
+        "enlace": "",
+        "imagen": "juncosglamping.jpg"
+      },
+      {
+        "id": 93,
+        "nombre": "Finca El Refugio",
+        "tipo": "hotel",
+        "municipio": "Simijaca",
+        "descripcion": "Espacio rural tradicional enfocado en el descanso familiar y la naturaleza.",
+        "valor": "$150.000 - $220.000",
+        "enlace": "",
+        "imagen": "fincarefugio.jpg"
+      },
+      {
+        "id": 94,
+        "nombre": "Andariegos",
+        "tipo": "gastronomia",
+        "municipio": "Simijaca",
+        "descripcion": "Cocina de autor y platos gourmet con ingredientes locales. Cra. 7 #9-47",
+        "valor": "$35k - $65k",
+        "enlace": "",
+        "imagen": "andariegos.jpg"
+      },
+      {
+        "id": 95,
+        "nombre": "La Patrona Simijaca",
+        "tipo": "gastronomia",
+        "municipio": "Simijaca",
+        "descripcion": "Parrilla argentina y colombiana, especialistas en carnes maduradas. Vía Principal",
+        "valor": "$25k - $55k",
+        "enlace": "",
+        "imagen": "patronasimijaca.jpg"
+      },
+      {
+        "id": 96,
+        "nombre": "La Cabañita Campestre",
+        "tipo": "gastronomia",
+        "municipio": "Simijaca",
+        "descripcion": "Comida tradicional, ideal para almuerzos familiares al aire libre. Sector La Vega",
+        "valor": "$20k - $45k",
+        "enlace": "",
+        "imagen": "cabañitacampestre.jpg"
+      },
+      {
+        "id": 97,
+        "nombre": "La Katrina",
+        "tipo": "gastronomia",
+        "municipio": "Simijaca",
+        "descripcion": "Restaurante-bar con ambiente moderno, picadas y coctelería. Zona Urbana",
+        "valor": "$15k - $38k",
+        "enlace": "",
+        "imagen": "katrina.jpg"
+      },
+      {
+        "id": 98,
+        "nombre": "parroquia Inmaculada Concepción",
+        "tipo": "religioso",
+        "municipio": "Simijaca",
+        "descripcion": "Templo principal con arquitectura colonial, epicentro de la fe simijaquense. Parque Principal",
+        "valor": "Gratuito",
+        "enlace": "",
+        "imagen": "parroquiainmaculada.jpg"
+      },
+      {
+        "id": 99,
+        "nombre": "Capilla de Santa Bárbara",
+        "tipo": "religioso",
+        "municipio": "Simijaca",
+        "descripcion": "Histórica capilla ubicada en un altozano, sitio de romería tradicional. Sector Rural",
+        "valor": "Gratuito",
+        "enlace": "",
+        "imagen": "capillabárbara.jpg"
+      },
+      {
+        "id": 100,
+        "nombre": "Iglesia IDMJI Simijaca",
+        "tipo": "religioso",
+        "municipio": "Simijaca",
+        "descripcion": "Sede religiosa moderna que forma parte de la vida social del municipio. Cl. 5 #7-86",
+        "valor": "N/A",
+        "enlace": "",
+        "imagen": "iglesiasimijca.jpg"
+      },
+      {
+        "id": 101,
+        "nombre": "Parque Ecológico La María",
+        "tipo": "naturaleza",
+        "municipio": "Simijaca",
+        "descripcion": "Senderismo, observación de aves y zonas de picnic. Reserva protegida clave del valle.",
+        "valor": "Acceso libre",
+        "enlace": "",
+        "imagen": "parqueecologico.jpg"
+      },
+      {
+        "id": 102,
+        "nombre": "Hacienda Aposentos",
+        "tipo": "naturaleza",
+        "municipio": "Simijaca",
+        "descripcion": "Fotografía, recorridos históricos y arquitectura de una antigua hacienda colonial.",
+        "valor": "Variable",
+        "enlace": "",
+        "imagen": "aposentos.jpg"
+      },
+      {
+        "id": 103,
+        "nombre": "Parque Principal",
+        "tipo": "naturaleza",
+        "municipio": "Simijaca",
+        "descripcion": "Paseo peatonal, degustación de mantecadas y lácteos. Corazón del pueblo.",
+        "valor": "Gratuito",
+        "enlace": "",
+        "imagen": "parquesimijaca.jpg"
+      },
+      {
+        "id": 104,
+        "nombre": "Parque Piedra Colgada",
+        "tipo": "naturaleza",
+        "municipio": "Simijaca",
+        "descripcion": "Mirador natural, rappel y caminatas de alto nivel. Famoso por su formación rocosa.",
+        "valor": "Costo de entrada",
+        "enlace": "",
+        "imagen": "piedracolgada.jpg"
+      },
+        {
+          "id": 105,
+          "nombre": "Glamping/BBQ Susa Cun",
+          "tipo": "glamping",
+          "municipio": "Susa",
+          "descripcion": "Domos con balcón, vista al jardín, zona de fogata y cocina equipada.",
+          "valor": "$220.000 - $380.000",
+          "enlace": "",
+          "imagen": "glampingsusa.jpg"
+        },
+        {
+          "id": 106,
+          "nombre": "Hotel Milán Confort",
+          "tipo": "hotel",
+          "municipio": "Susa",
+          "descripcion": "Alojamiento céntrico y cómodo, con atención familiar y parqueadero.",
+          "valor": "$100.000 - $160.000",
+          "enlace": "",
+          "imagen": "hotelmilan.jpg"
+        },
+        {
+          "id": 107,
+          "nombre": "Posada La Casona",
+          "tipo": "hotel",
+          "municipio": "Susa",
+          "descripcion": "Casa de estilo tradicional colonial con habitaciones acogedoras.",
+          "valor": "$80.000 - $130.000",
+          "enlace": "",
+          "imagen": "lacasona.jpg"
+        },
+        {
+          "id": 108,
+          "nombre": "Cuchuco con Espinazo",
+          "tipo": "gastronomia",
+          "municipio": "Susa",
+          "descripcion": "El plato insignia de la región, preparado a fuego lento en los restaurantes del centro.",
+          "valor": "$18.000 - $30.000",
+          "enlace": "",
+          "imagen": "cuchuco.jpg"
+        },
+        {
+          "id": 109,
+          "nombre": "Amasijos y Lácteos",
+          "tipo": "gastronomia",
+          "municipio": "Susa",
+          "descripcion": "Quesos frescos, cuajadas con melao y colaciones de maíz en el Parque Principal.",
+          "valor": "$5.000 - $15.000",
+          "enlace": "",
+          "imagen": "amasijos.jpg"
+        },
+        {
+          "id": 110,
+          "nombre": "Restaurante El Portal",
+          "tipo": "gastronomia",
+          "municipio": "Susa",
+          "descripcion": "Famoso por sus desayunos generosos y almuerzos típicos de fin de semana.",
+          "valor": "$15.000 - $35.000",
+          "enlace": "",
+          "imagen": "portal.jpg"
+        },
+        {
+          "id": 111,
+          "nombre": "parroquia Ntra. Sra. de los Dolores",
+          "tipo": "religioso",
+          "municipio": "Susa",
+          "descripcion": "Joya arquitectónica que albergó la imagen de la Virgen del Topo. Parque Principal",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "parroquiasusa.jpg"
+        },
+        {
+          "id": 112,
+          "nombre": "Capilla del Divino Niño",
+          "tipo": "religioso",
+          "municipio": "Susa",
+          "descripcion": "Colonial ermita (antiguamente de San Emigdio), sitio de gran peregrinación regional. Cra 4ª # 6-47",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "capilladivino.jpg"
+        },
+        {
+          "id": 113,
+          "nombre": "Cerro El Calvario",
+          "tipo": "religioso",
+          "municipio": "Susa",
+          "descripcion": "Camino empedrado con las estaciones del viacrucis, muy visitado en Semana Santa. Sector Nororiente",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "calvario.jpg"
+        },
+        {
+          "id": 114,
+          "nombre": "Piedra Colgada",
+          "tipo": "naturaleza",
+          "municipio": "Susa",
+          "descripcion": "Senderismo, fotografía, rappel. Espectacular formación rocosa que sobresale 1.5 metros al vacío.",
+          "valor": "Acceso libre/Guía",
+          "enlace": "",
+          "imagen": "piedracolgada.jpg"
+        },
+        {
+          "id": 115,
+          "nombre": "Cerro de la Virgen",
+          "tipo": "naturaleza",
+          "municipio": "Susa",
+          "descripcion": "Caminata suave y mirador. Ofrece una panorámica completa del valle de Ubate y el casco urbano.",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "virgen.jpg"
+        },
+        {
+          "id": 116,
+          "nombre": "Centro Histórico",
+          "tipo": "naturaleza",
+          "municipio": "Susa",
+          "descripcion": "Caminatas fotográficas. Conserva la tranquilidad de los pueblos coloniales con calles empedradas.",
+          "valor": "Gratuito",
+          "enlace": "",
+          "imagen": "historco.jpg"
+        },
+          {
+            "id": 117,
+            "nombre": "Glamping Entre Rocas",
+            "tipo": "glamping",
+            "municipio": "Sutatausa",
+            "descripcion": "Domos de lujo construidos literalmente entre las formaciones rocosas.",
+            "valor": "$350k - $550k",
+            "enlace": "",
+            "imagen": "entrerocas.jpg"
+          },
+          {
+            "id": 118,
+            "nombre": "Big Bang Glamping",
+            "tipo": "glamping",
+            "municipio": "Sutatausa",
+            "descripcion": "Domos con temática astronómica, ideales para ver estrellas por la baja contaminación lumínica.",
+            "valor": "$320k - $480k",
+            "enlace": "",
+            "imagen": "bigbang.jpg"
+          },
+          {
+            "id": 119,
+            "nombre": "Hotel El Condado",
+            "tipo": "hotel",
+            "municipio": "Sutatausa",
+            "descripcion": "Hotel de estilo rural-colonial muy cómodo y cerca de la plaza principal.",
+            "valor": "$140k - $200k",
+            "enlace": "",
+            "imagen": "condado.jpg"
+          },
+          {
+            "id": 120,
+            "nombre": "La Posada de los Farallones",
+            "tipo": "hotel",
+            "municipio": "Sutatausa",
+            "descripcion": "Hostal acogedor para senderistas y escaladores.",
+            "valor": "$90k - $150k",
+            "enlace": "",
+            "imagen": "farrallones.jpg"
+          },
+          {
+            "id": 121,
+            "nombre": "La Estación del Tren",
+            "tipo": "gastronomia",
+            "municipio": "Sutatausa",
+            "descripcion": "Restaurante temático en la antigua estación. Muy buena carne a la brasa. Vía Principal",
+            "valor": "$30k - $60k",
+            "enlace": "",
+            "imagen": "estaciontren.jpg"
+          },
+          {
+            "id": 122,
+            "nombre": "Restaurante El Tequendama",
+            "tipo": "gastronomia",
+            "municipio": "Sutatausa",
+            "descripcion": "Comida típica tradicional: Cuchuco con espinazo y trucha. Plaza Principal",
+            "valor": "$20k - $40k",
+            "enlace": "",
+            "imagen": "tenquendama.jpg"
+          },
+          {
+            "id": 123,
+            "nombre": "Tejiendo Sabores",
+            "tipo": "gastronomia",
+            "municipio": "Sutatausa",
+            "descripcion": "Café artesanal y postres locales (especialidad en cuajada con melao). Centro Urbano",
+            "valor": "$10k - $25k",
+            "enlace": "",
+            "imagen": "tejiendosabores.jpg"
+          },
+          {
+            "id": 124,
+            "nombre": "Asadero El Portal",
+            "tipo": "gastronomia",
+            "municipio": "Sutatausa",
+            "descripcion": "Piqueteadero tradicional con fritanga y gallina campesina. Entrada al pueblo",
+            "valor": "$25k - $45k",
+            "enlace": "",
+            "imagen": "asaderoelportal.jpg"
+          },
+          {
+            "id": 125,
+            "nombre": "Conjunto Doctrinero San Juan Bautista",
+            "tipo": "religioso",
+            "municipio": "Sutatausa",
+            "descripcion": "Construido en el siglo XVI para la evangelización. Conserva 4 capillas posas originales. Plaza Principal",
+            "valor": "Gratuito",
+            "enlace": "",
+            "imagen": "conjunto.jpg"
+          },
+          {
+            "id": 126,
+            "nombre": "Capillas Posas",
+            "tipo": "religioso",
+            "municipio": "Sutatausa",
+            "descripcion": "Pequeñas estructuras en las esquinas de la plaza usadas en procesiones coloniales. Plaza Principal",
+            "valor": "N/A",
+            "enlace": "",
+            "imagen": "capillaposa.jpg"
+          },
+          {
+            "id": 127,
+            "nombre": "Murales de la Iglesia",
+            "tipo": "religioso",
+            "municipio": "Sutatausa",
+            "descripcion": "Pinturas al temple del siglo XVII que muestran escenas del juicio final. Interior Templo",
+            "valor": "Gratuito",
+            "enlace": "",
+            "imagen": "Muraliglesia.jpg"
+          },
+          {
+            "id": 128,
+            "nombre": "Farallones de Sutatausa",
+            "tipo": "naturaleza",
+            "municipio": "Sutatausa",
+            "descripcion": "Trekking de alto nivel, escalada y fotografía. Lugar histórico del suicidio colectivo Muisca.",
+            "valor": "Acceso libre",
+            "enlace": "",
+            "imagen": "farrallones.jpg"
+          },
+          {
+            "id": 129,
+            "nombre": "Pinturas Rupestres",
+            "tipo": "naturaleza",
+            "municipio": "Sutatausa",
+            "descripcion": "Observación de pictogramas indígenas en color rojo ocre. Arte milenario ancestral.",
+            "valor": "Acceso libre",
+            "enlace": "",
+            "imagen": "pinturas.jpg"
+          },
+          {
+            "id": 130,
+            "nombre": "Tejidos de Lana",
+            "tipo": "naturaleza",
+            "municipio": "Sutatausa",
+            "descripcion": "Talleres de tejido en telar de mano. Tradición de ruanas de lana virgen de alta calidad.",
+            "valor": "Variable",
+            "enlace": "",
+            "imagen": "tejidoslana.jpg"
+          },
+  {
+  "id": 131,
+  "nombre": "Camino de la Sal",
+  "tipo": "naturaleza",
+  "municipio": "Sutatausa",
+  "descripcion": "Caminata histórica por las antiguas rutas de comercio de sal.",
+  "valor": "Variable",
+  "enlace": "",
+  "imagen": "camino.jpg"
+  },
+    {
+      "id": 132,
+      "nombre": "Neusa Hills Eco Hotel",
+      "tipo": "hotel",
+      "municipio": "Tausa",
+      "descripcion": "Hotel boutique con cabañas de diseño premium y vistas al embalse.",
+      "valor": "$550k - $850k",
+      "enlace": "",
+      "imagen": "neusahill.jpg"
+    },
+    {
+      "id": 133,
+      "nombre": "Glamping Paraíso de Tausa",
+      "tipo": "glamping",
+      "municipio": "Tausa",
+      "descripcion": "Domos acogedores en la zona rural, ideales para parejas.",
+      "valor": "$250k - $420k",
+      "enlace": "",
+      "imagen": "paraisotausa.jpg"
+    },
+    {
+      "id": 134,
+      "nombre": "Refugio del Neusa",
+      "tipo": "hotel",
+      "municipio": "Tausa",
+      "descripcion": "Cabañas y zonas de camping con acceso a senderos y bosque.",
+      "valor": "$180k - $350k",
+      "enlace": "",
+      "imagen": "refugioneusa.jpg"
+    },
+    {
+      "id": 135,
+      "nombre": "Tributo Cocina de Origen",
+      "tipo": "gastronomia",
+      "municipio": "Tausa",
+      "descripcion": "Platos gourmet inspirados en ingredientes locales y trucha fresca. Embalse del Neusa",
+      "valor": "$45k - $85k",
+      "enlace": "",
+      "imagen": "cocina.jpg"
+    },
+    {
+      "id": 136,
+      "nombre": "Rest. Sendero de la Luna",
+      "tipo": "gastronomia",
+      "municipio": "Tausa",
+      "descripcion": "Comida tradicional con una vista privilegiada a la naturaleza. Finca Isabela",
+      "valor": "$30k - $55k",
+      "enlace": "",
+      "imagen": "senderoluna.jpg"
+    },
+    {
+      "id": 137,
+      "nombre": "El Tizón Parrilla",
+      "tipo": "gastronomia",
+      "municipio": "Tausa",
+      "descripcion": "Especialistas en carnes a la brasa y platos típicos de carretera. Vía Zipaquirá-Ubate",
+      "valor": "$25k - $50k",
+      "enlace": "",
+      "imagen": "eltizon.jpg"
+    },
+    {
+      "id": 138,
+      "nombre": "Restaurante Laureles",
+      "tipo": "gastronomia",
+      "municipio": "Tausa",
+      "descripcion": "Comida típica tradicional (piquete y trucha) para visitantes del Neusa. Sector Laureles",
+      "valor": "$20k - $40k",
+      "enlace": "",
+      "imagen": "restaurantelaureles.jpg"
+    },
+    {
+      "id": 139,
+      "nombre": "Templo Doctrinero Tausa Viejo",
+      "tipo": "religioso",
+      "municipio": "Tausa",
+      "descripcion": "Joya colonial del siglo XVI. Es uno de los templos más antiguos y mejor conservados del país. Tausa Viejo (Roma)",
+      "valor": "N/A",
+      "enlace": "",
+      "imagen": "tausaviejo.jpg"
+    },
+    {
+      "id": 140,
+      "nombre": "Iglesia San Antonio de Padua",
+      "tipo": "religioso",
+      "municipio": "Tausa",
+      "descripcion": "Templo principal del casco urbano actual, de arquitectura más reciente. Parque Principal",
+      "valor": "N/A",
+      "enlace": "",
+      "imagen": "iglesiatausa.jpg"
+    },
+    {
+      "id": 141,
+      "nombre": "Embalse del Neusa",
+      "tipo": "naturaleza",
+      "municipio": "Tausa",
+      "descripcion": "Pesca deportiva, camping, picnics y navegación. Reserva forestal vital de 3.700 hectáreas.",
+      "valor": "Entrada con costo",
+      "enlace": "",
+      "imagen": "embalse.jpg"
+    },
+    {
+      "id": 142,
+      "nombre": "Tausa Vieja (Pueblo Viejo)",
+      "tipo": "naturaleza",
+      "municipio": "Tausa",
+      "descripcion": "Fotografía y caminatas históricas. El pueblo original fue abandonado debido a fallas geológicas.",
+      "valor": "Gratuito",
+      "enlace": "",
+      "imagen": "puebloviejo.jpg"
+    },
+    {
+      "id": 143,
+      "nombre": "santuari Chiquito",
+      "tipo": "naturaleza",
+      "municipio": "Tausa",
+      "descripcion": "Senderismo ecológico y contacto con fauna andina. Parque enfocado en la educación ambiental.",
+      "valor": "Variable",
+      "enlace": "",
+      "imagen": "santuariochiquito.jpg"
+  },
+  {
+    "id": 144,
+    "nombre": "Páramo de Guerrero  ",
+    "tipo": "naturaleza",
+    "municipio": "Tausa",
+    "descripcion": "Senderismo de alta montaña y avistamiento de frailejones.  .",
+    "valor": "Gratuito",
+    "enlace": "",
+    "imagen": "paramo.jpg"
+  },
+  
+    {
+      "id": 145,
+      "nombre": "Chalet Campestre La Peseta",
+      "tipo": "hotel",
+      "municipio": "Ubate",
+      "descripcion": "Cabañas de madera acogedoras con amplias zonas verdes y estilo alpino.",
+      "valor": "$180.000 - $320.000",
+      "enlace": "",
+      "imagen": "chalet.jpg"
+    },
+    {
+      "id": 146,
+      "nombre": "Hotel San Gabriel",
+      "tipo": "hotel",
+      "municipio": "Ubate",
+      "descripcion": "Hotel ejecutivo y familiar, el más moderno y céntrico del municipio.",
+      "valor": "$140.000 - $210.000",
+      "enlace": "",
+      "imagen": "sangabriel.jpg"
+    },
+    {
+      "id": 147,
+      "nombre": "Hotel Zaclordy",
+      "tipo": "hotel",
+      "municipio": "Ubate",
+      "descripcion": "Ubicación estratégica frente al comercio, habitaciones cómodas y funcionales.",
+      "valor": "$100.000 - $160.000",
+      "enlace": "",
+      "imagen": "hotelzaclordy.jpg"
+    },
+    {
+      "id": 148,
+      "nombre": "Villa Manantial de Sueños",
+      "tipo": "hotel",
+      "municipio": "Ubate",
+      "descripcion": "(Gamping/Rural) Espacio natural con fogatas y cabañas de descanso.",
+      "valor": "$220.000 - $350.000",
+      "enlace": "",
+      "imagen": "villamanantial.jpg"
+    },
+    {
+      "id": 149,
+      "nombre": "Rest. Villa La Gallina",
+      "tipo": "gastronomia",
+      "municipio": "Ubate",
+      "descripcion": "El sitio más icónico para comer gallina criolla con hogao y papa. Cl. 10 #4-1",
+      "valor": "$35.000 - $70.000",
+      "enlace": "",
+      "imagen": "lagallina.jpg"
+    },
+    {
+      "id": 150,
+      "nombre": "La Vaca Gona",
+      "tipo": "gastronomia",
+      "municipio": "Ubate",
+      "descripcion": "Parador turístico famoso por su repostería, quesos y platos típicos. Vía principal",
+      "valor": "$25.000 - $55.000",
+      "enlace": "",
+      "imagen": "vacagona.jpg"
+    },
+    {
+      "id": 151,
+      "nombre": "Plaza de la Gallina",
+      "tipo": "gastronomia",
+      "municipio": "Ubate",
+      "descripcion": "Conjunto de locales tradicionales especializados únicamente en gallina. Sector Centro",
+      "valor": "$20.000 - $45.000",
+      "enlace": "",
+      "imagen": "plazagallina.jpg"
+    },
+    { 
+      "id": 152,
+      "nombre": "Fábrica de Lácteos Ubate",
+      "tipo": "gastronomia",
+      "municipio": "Ubate",
+      "descripcion": "Venta directa de queso Siete Cueros, yogur y postres de leche. Diversas sedes",
+      "valor": "$10.000 - $40.000",
+      "enlace": "",
+      "imagen": "lacteosubate.jpg"
+    },
+    {
+      "id": 153,
+      "nombre": "Basílica Menor Divino Salvador",
+      "tipo": "religioso",
+      "municipio": "Ubate",
+      "descripcion": "Construida en estilo neogótico francés. Es el símbolo del municipio y orgullo del valle. Parque Principal",
+      "valor": "Gratuito",
+      "enlace": "",
+      "imagen": "basilicaubate.jpg"
+    },
+    {
+      "id": 154,
+      "nombre": "Capilla de Santa Bárbara",
+      "tipo": "religioso",
+      "municipio": "Ubate",
+      "descripcion": "Capilla colonial ubicada en lo alto del cerro, símbolo de protección para el pueblo. Cerro de Santa Bárbara",
+      "valor": "Gratuito",
+      "enlace": "",
+      "imagen": "santabarbara.jpg"
+    },
+    {
+      "id": 155,
+      "nombre": "Convento Franciscano de San Luis",
+      "tipo": "religioso",
+      "municipio": "Ubate",
+      "descripcion": "Antiguo claustro de la orden franciscana con arquitectura colonial sobria y pacífica. Sector Urbano",
+      "valor": "N/A",
+      "enlace": "",
+      "imagen": "conventosanfrancisco.jpg"
+    },
+    {
+      "id": 156,
+      "nombre": "Cerro de Santa Bárbara",
+      "tipo": "naturaleza",
+      "municipio": "Ubate",
+      "descripcion": "Senderismo, mirador fotográfico y ejercicio al aire libre. Ofrece la mejor vista de la Basílica.",
+      "valor": "Gratuito",
+      "enlace": "",
+      "imagen": "cerrosantabarbara.jpg"
+    },
+    {
+      "id": 157,
+      "nombre": "Mercado de los Miércoles",
+      "tipo": "naturaleza",
+      "municipio": "Ubate",
+      "descripcion": "Compra de artesanías, ganado y productos agrícolas frescos. Uno de los mercados más grandes de Cundinamarca.",
+      "valor": "Acceso libre",
+      "enlace": "",
+      "imagen": "mercado.jpg"
+    },
+    {
+      "id": 158,
+      "nombre": "Ruta del Queso",
+      "tipo": "naturaleza",
+      "municipio": "Ubate",
+      "descripcion": "Tour pedagógico sobre la producción lechera y cata de quesos en diversas fincas.",
+      "valor": "Variable",
+      "enlace": "",
+      "imagen": "rutaqueso.jpg"
+    },
+    {
+      "id": 159,
+      "nombre": "Parque Principal    ",
+      "tipo": "naturaleza",
+      "municipio": "Ubate",
+      "descripcion": "Paseo cultural y apreciación de la arquitectura neogótica.    ",
+      "valor": "Variable",
+      "enlace": "",
+      "imagen": "parqueubate.jpg"
+    }
+  
+  ]
+  

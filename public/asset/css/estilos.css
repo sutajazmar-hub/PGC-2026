@@ -1,0 +1,962 @@
+body{
+    font-family: Arial;
+    margin:0;
+    background:#f5f7f5;
+    }
+    
+    /* HEADER */
+    
+    .header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:15px 30px;
+    background:#1b5e20;
+    color:white;
+    }
+    
+    .logo h1{
+    margin:0;
+    font-size:22px;
+    }
+    
+    .logo p{
+    margin:0;
+    font-size:12px;
+    }
+    
+    .menu-icon{
+    font-size:30px;
+    cursor:pointer;
+    }
+    
+    /* MENU */
+    
+    .menu{
+    position:fixed;
+    top:0;
+    right:-300px;
+    width:250px;
+    height:100%;
+    background:white;
+    box-shadow:-2px 0 10px rgba(0,0,0,0.2);
+    padding:20px;
+    transition:0.3s;
+    }
+    
+    .menu.open{
+    right:0;
+    }
+    
+    .menu ul{
+    list-style:none;
+    padding:0;
+    }
+    
+    .menu li{
+    padding:5px 0;
+    }
+    
+    /* GALERIA */
+    
+    .titulo{
+    text-align:center;
+    margin:20px;
+    }
+    
+    .galeria{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(250px,1fr));
+    gap:20px;
+    padding:20px;
+    }
+    
+    /* CARDS */
+    
+    .card{
+    background:white;
+    border-radius:10px;
+    overflow:hidden;
+    text-decoration:none;
+    color:black;
+    box-shadow:0 4px 10px rgba(0,0,0,0.1);
+    transition:0.3s;
+    }
+    
+    .card:hover{
+    transform:scale(1.03);
+    }
+    
+    .card img{
+    width:100%;
+    height:200px;
+    object-fit:cover;
+    }
+    
+    .info{
+    padding:10px;
+    }
+
+    .header{
+        background-color:#1b5e20;
+        color:white;
+        text-align:center;
+        padding:20px;
+        }
+        
+        .header h1{
+        margin:0;
+        font-size:28px;
+        }
+        
+        .header p{
+        margin:0;
+        font-size:14px;
+        }
+
+        body{
+            margin:0;
+            font-family: Arial;
+            background:#f0f2f5;
+            }
+            
+            /* HEADER */
+            
+            .header{
+            background:#1b5e20;
+            color:white;
+            padding:15px 40px;
+            }
+            
+            .logo h1{
+            margin:0;
+            font-size:24px;
+            }
+            
+            .logo p{
+            margin:0;
+            font-size:13px;
+            }
+            
+            
+            /* FEED */
+            
+            .feed{
+            width:500px;
+            margin:40px auto;
+            }
+            
+            
+            /* POST */
+            
+            .post{
+            background:white;
+            border-radius:10px;
+            box-shadow:0 2px 8px rgba(0,0,0,0.1);
+            margin-bottom:30px;
+            overflow:hidden;
+            }
+            
+            /* IMAGEN */
+            
+            .post img{
+            width:100%;
+            height:300px;
+            object-fit:cover;
+            }
+            
+            /* INFO */
+            
+            .post-info{
+            padding:15px;
+            }
+            
+            .post-info h3{
+            margin:0;
+            font-size:20px;
+            }
+            
+            .post-info p{
+            margin-top:5px;
+            color:gray;
+            }
+
+            /* HEADER */
+
+
+    .header{
+        background:#1b5e20;
+        color:white;
+        text-align:center;
+        padding:45px 20px;
+        position:relative;
+        }
+    
+    .logo h1{
+    margin:0;
+    font-size:22px;
+    }
+    
+    .logo p{
+    margin:0;
+    font-size:12px;
+    }
+    
+    .menu-btn{
+    font-size:30px;
+    cursor:pointer;
+    }
+    
+    /* MENU LATERAL */
+    
+    .menu{
+    position:fixed;
+    top:0;
+    right:-300px;
+    width:250px;
+    height:100%;
+    background:rgb(15, 110, 23);
+    padding:20px;
+    box-shadow:-3px 0 10px rgb(255, 255, 255);
+    transition:0.3s;
+    }
+    
+    .menu-open{
+    right:0;
+    }
+    
+    .menu ul{
+    list-style:none;
+    padding:0;
+    }
+    
+    .menu li{
+    padding:5px 0;
+    }
+
+    /* HEADER */
+
+.header{
+    background:#1b5e20;
+    color:white;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    padding:25px;
+    position:relative;
+    }
+    
+    .logo h1{
+    margin:0;
+    font-size:36px;
+    font-weight:bold;
+    }
+    
+    .logo p{
+    margin:5px 0 0 0;
+    font-size:18px;
+    }
+    
+    .menu-btn{
+    position:absolute;
+    right:30px;
+    top:30px;
+    font-size:32px;
+    cursor:pointer;
+    }
+
+    /* MENU LATERAL */
+
+.menu{
+    position:fixed;
+    top:0;
+    right:0;
+    width:220px;
+    height:100%;
+    background:#1b5e20;
+    padding:20px;
+    color:white;
+    box-shadow:-4px 0 10px rgba(0,0,0,0.2);
+    }
+    
+    .menu h3{
+    color:white;
+    margin-top:20px;
+    font-size:16px;
+    border-bottom:1px solid rgba(255,255,255,0.3);
+    padding-bottom:5px;
+    }
+    
+    .menu ul{
+    list-style:none;
+    padding-left:0;
+    }
+    
+    .menu li{
+    padding:6px 0;
+    font-size:14px;
+    color:white;
+    cursor:pointer;
+    }
+    
+    .menu li:hover{
+    color:#a5d6a7;
+    }
+    
+    .menu p{
+    color:white;
+    font-size:14px;
+    }
+    /* CONTENEDOR PRINCIPAL */
+
+.feed{
+    margin-right:240px;
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(200px,1fr));
+    gap:20px;
+    padding:30px;
+    }.post{
+        background:white;
+        border-radius:10px;
+        overflow:hidden;
+        box-shadow:0 3px 10px rgba(0,0,0,0.1);
+        transition:0.2s;
+        }
+        
+        .post:hover{
+        transform:scale(1.03);
+        }
+        
+        .post img{
+        width:100%;
+        height:140px;
+        object-fit:cover;
+        }
+        
+        .post-info{
+        padding:10px;
+        }
+        
+        .post-info h3{
+        margin:0;
+        font-size:15px;
+        }
+        
+        .post-info p{
+        margin:2px 0;
+        font-size:12px;
+        color:#555;
+        }
+        .header{
+            background:#1b5e20;
+            color:white;
+            text-align:center;
+            padding:25px;
+            }
+            
+            .logo h1{
+            font-size:34px;
+            margin:0;
+            }
+            
+            .logo p{
+            font-size:16px;
+            margin:5px 0 0 0;
+            }
+
+            /* TITULO */
+
+.titulo{
+    text-align:center;
+    font-size:28px;
+    margin-top:20px;
+    }
+    
+    
+    /* BOTON AGREGAR */
+    
+    .boton-agregar{
+    display:flex;
+    justify-content:center;
+    margin:40px 0;
+    }
+    
+    .boton-agregar a{
+    background:#2e7d32;
+    color:white;
+    padding:12px 25px;
+    border-radius:8px;
+    text-decoration:none;
+    font-weight:bold;
+    transition:0.2s;
+    }
+    
+    .boton-agregar a:hover{
+    background:#1b5e20;
+    }
+
+    /* ICONO MENU */
+
+    .menu-icon{
+        position:absolute;
+        right:20px;
+        top:20px;
+        background:white;
+        color:#1b5e20;
+        width:40px;
+        height:40px;
+        border-radius:50%;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+        font-size:22px;
+        cursor:pointer;
+        box-shadow:0 3px 8px rgba(0,0,0,0.2);
+        transition:0.2s;
+        }
+        
+        .menu-icon:hover{
+        transform:scale(1.1);
+        }
+    
+    
+    /* MENU LATERAL */
+    
+    .menu{
+        position:fixed;
+        top:0;
+        right:-300px;
+        width:260px;
+        height:100%;
+        background:#1b5e20;
+        padding:20px;
+        transition:0.3s;
+        color:white;
+        overflow-y:auto;
+        z-index:1000;
+        }
+    
+    .menu-open{
+    right:0;
+    }
+    
+    
+    /* BOTONES DEL MENU */
+    
+    .menu button{
+        width:100%;
+        background:none;
+        border:none;
+        color:white;
+        font-size:17px;
+        text-align:left;
+        padding:12px 0;
+        cursor:pointer;
+        border-bottom:1px solid rgba(255,255,255,0.2);
+        transition:0.2s;
+        }
+        
+        .menu button:hover{
+        color:#a5d6a7;
+        padding-left:5px;
+        }
+    
+    /* SUBMENUS */
+    
+    .submenu{
+        display:none;
+        padding-left:10px;
+        font-size:14px;
+        margin-top:5px;
+        }
+        
+        .submenu p{
+        margin:6px 0;
+        cursor:pointer;
+        }
+        
+        .submenu p:hover{
+        color:#a5d6a7;
+        }
+
+        .menu button:last-child{
+            margin-top:20px;
+            background:#a52a2a;
+            padding:10px;
+            border-radius:6px;
+            }
+            
+            .menu button:last-child:hover{
+            background:#7a1e1e;
+            }
+
+            .menu form button{
+                width:100%;
+                background:#b71c1c;
+                border:none;
+                color:white;
+                padding:10px;
+                margin-top:15px;
+                border-radius:6px;
+                cursor:pointer;
+                }
+                
+                .menu form button:hover{
+                background:#7f0000;
+                }
+
+                .header{
+                    background-image: url('/assets/img/banner.png');
+                    background-size: cover;
+                    background-position: center;
+                    height:220px;
+                    display:flex;
+                    align-items:center;
+                    justify-content:center;
+                    text-align:center;
+                    color:white;
+                    position:relative;
+                    }
+
+                    .logo h1{
+                        font-size:42px;
+                        font-weight:600;
+                        letter-spacing:1px;
+                        }
+
+                        .logo p{
+                            font-size:30px;
+                            margin-top:8px;
+                            }
+                            body{
+                                font-family: 'Poppins', sans-serif;
+                                margin:0;
+                                padding:0;
+                                }
+/* TITULO DEL FORMULARIO */
+
+.titulo-form{
+    text-align:center;
+    margin-top:40px;
+    font-size:32px;
+    color:#1b5e20;
+    }
+    
+    
+    /* CONTENEDOR FORMULARIO */
+    
+    .form-container{
+    width:420px;
+    margin:30px auto;
+    background:white;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+    }
+    
+    
+    /* LABELS */
+    
+    .form-container label{
+    display:block;
+    margin-top:15px;
+    font-weight:500;
+    }
+    
+    
+    /* INPUTS */
+    
+    .form-container input,
+    .form-container textarea,
+    .form-container select{
+    
+    width:100%;
+    padding:10px;
+    margin-top:5px;
+    border:1px solid #ccc;
+    border-radius:6px;
+    }
+    
+    
+    /* BOTON */
+    
+    .form-container button{
+    
+    margin-top:20px;
+    width:100%;
+    background:#1b5e20;
+    color:white;
+    border:none;
+    padding:12px;
+    font-size:16px;
+    border-radius:6px;
+    cursor:pointer;
+    transition:0.2s;
+    
+    }
+    
+    .form-container button:hover{
+    background:#2e7d32;
+    }
+    /* LINKS DEL MENU */
+
+.submenu a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    margin:6px 0;
+    font-size:14px;
+    }
+    
+    .submenu a:hover{
+    color:#a5d6a7;
+    }
+    .submenu{
+        margin-top:8px;
+        padding-left:5px;
+        }
+
+        .logo{
+            text-align: center;
+            }
+            
+            .logo-img{
+            width:120px;
+            margin-bottom:10px;
+            }
+            
+            .header{
+            background:#1b5e20;
+            color:white;
+            padding:40px;
+            text-align:center;
+            }
+            .header{
+                background:#1b5e20;
+                padding:30px;
+                color:white;
+                }
+                
+                .logo{
+                display:flex;
+                align-items:center;
+                justify-content:center;
+                gap:20px;
+                }
+                
+                .logo-img{
+                width:400px;
+                }
+                
+                .logo-texto h1{
+                font-size:40px;
+                margin:0;
+                }
+                
+                .logo-texto p{
+                margin:0;
+                font-size:18px;
+                }
+
+                .body-login{
+                    background:#e8f5e9;
+                    font-family: 'Poppins', sans-serif;
+                    }
+                    
+                    .contenedor-login{
+                    width:380px;
+                    margin:60px auto;
+                    background:white;
+                    padding:30px;
+                    border-radius:10px;
+                    box-shadow:0px 5px 15px rgba(0,0,0,0.15);
+                    }
+                    
+                    .contenedor-login label{
+                    font-weight:500;
+                    margin-top:10px;
+                    }
+                    
+                    .contenedor-login input{
+                    margin-top:5px;
+                    }
+                    
+                    h1{
+                    color:#1b5e20;
+                    }
+                    .feed{
+                        display:grid;
+                        grid-template-columns:repeat(5,1fr);
+                        gap:10px;
+                        padding:20px;
+                        }
+
+                        .post{
+                            background:white;
+                            border-radius:10px;
+                            overflow:hidden;
+                            box-shadow:0px 4px 10px rgba(0,0,0,0.15);
+                            width:100%;
+                            max-width:380px;
+                            }
+
+                            .post img{
+                                width:100%;
+                                height:250px;
+                                object-fit:cover;
+                                }
+                                .post-info{
+                                    padding:15px;
+                                    }
+                                    
+                                    .post-info h3{
+                                    font-size:20px;
+                                    margin-bottom:5px;
+                                    }
+                                    
+                                    .post-info p{
+                                    font-size:15px;
+                                    color:#555;
+                                    }
+
+                                    .post{
+                                        width:5cm;
+                                        height:5cm;
+                                        border-radius:15px;
+                                        overflow:hidden;
+                                        background:white;
+                                        box-shadow:0 4px 10px rgba(0,0,0,0.15);
+                                        display:flex;
+                                        flex-direction:column;
+                                        justify-content:center;
+                                        align-items:center;
+                                        text-align:center;
+                                        }
+                                        .post img{
+                                            width:100%;
+                                            height:100%;
+                                            object-fit:cover;
+                                            border-radius:15px;
+                                            }
+                                            .post img{
+                                                width:100%;
+                                                height:100%;
+                                                object-fit:cover;
+                                                border-radius:15px;
+                                                }
+                                                .post:hover{
+                                                    transform:scale(1.05);
+                                                    transition:0.3s;
+                                                    }
+                                                    .feed{
+                                                        display:grid;
+                                                        grid-template-columns:repeat(5, 1fr);
+                                                        gap:20px;
+                                                        max-width:1200px;
+                                                        margin:0 auto;
+                                                        }
+                                                        .post{
+                                                            background:white;
+                                                            border-radius:15px;
+                                                            overflow:hidden;
+                                                            box-shadow:0 4px 10px rgba(0,0,0,0.15);
+                                                            height:250px;
+                                                            display:flex;
+                                                            flex-direction:column;
+                                                            }
+                                                            .post img{
+                                                                width:100%;
+                                                                height:180px;
+                                                                object-fit:cover;
+                                                                }
+
+                                                                /* GENERAL */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f7f5;
+}
+
+/* HEADER */
+.header {
+    background: #1b5e20;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.logo-texto h1 {
+    font-size: 34px;
+    margin: 0;
+}
+
+.logo-texto p {
+    font-size: 16px;
+    margin: 5px 0 0 0;
+}
+
+/* CONTENEDOR FEED (Grilla de 5 columnas) */
+.feed {
+    display: grid;
+    /* Crea 5 columnas iguales */
+    grid-template-columns: repeat(5, 1fr); 
+    gap: 20px;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+/* CARDS / POSTS */
+.post{
+    background:white;
+    border-radius:15px;
+    overflow:hidden;
+    box-shadow:0 4px 10px rgba(0,0,0,0.15);
+    }
+
+.post:hover {
+    transform: scale(1.05);
+}
+
+.post img {
+    width: 100%;
+    height: 180px; /* Altura fija para mantener uniformidad */
+    object-fit: cover;
+}
+
+.post-info {
+    padding: 15px;
+    text-align: left;
+}
+
+.post-info h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #1b5e20;
+}
+
+.post-info p {
+    margin: 5px 0 0;
+    font-size: 13px;
+    color: #555;
+}
+
+/* AJUSTE PARA PANTALLAS PEQUEÑAS (Opcional pero recomendado) */
+@media (max-width: 1200px) {
+    .feed { grid-template-columns: repeat(5, 1fr); }
+}
+
+@media (max-width: 768px) {
+    .feed { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 480px) {
+    .feed { grid-template-columns: 1fr; }
+}
+/* CONTENEDOR FEED (Grilla adaptable y centrada) */
+/* CONTENEDOR FEED (5 columnas exactas) */
+.feed {
+    display: grid;
+    /* Forzamos las 5 columnas */
+    grid-template-columns: repeat(5, 1fr); 
+    gap: 20px;
+    padding: 20px;
+
+    /* --- ESTO ES LO QUE SOLUCIONA TU PROBLEMA --- */
+    max-width: 1400px;  /* Ajusta este ancho según te guste más */
+    margin: 0 auto;     /* Esto centra TODO el bloque de tarjetas */
+    justify-content: center; /* Centra las columnas dentro del grid */
+    /* ------------------------------------------- */
+
+    box-sizing: border-box;
+}
+
+/* CARDS / POSTS */
+.post {
+    background: white;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: transform 0.3s ease; /* Agregué esto para que el hover se vea más suave */
+}
+
+.post:hover {
+    transform: scale(1.05);
+}
+
+.post img {
+    width: 100%;
+    height: 180px; 
+    object-fit: cover;
+}
+
+.post-info {
+    padding: 15px;
+    text-align: left;
+}
+
+.post-info h3 {
+    margin: 0;
+    font-size: 16px;
+    color: #1b5e20;
+}
+
+.post-info p {
+    margin: 5px 0 0;
+    font-size: 13px;
+    color: #555;
+}
+
+.header{
+    display:flex;
+    align-items:center;
+    padding:15px 30px;
+    background:#2e7d32;
+    color:white;
+    }
+    .titulo-header{
+        font-size:28px;
+        font-weight:600;
+        letter-spacing:1px;
+        margin:0;
+        }
+
+        /* HEADER */
+.header {
+    background: #1b5e20;
+    color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: row; /* Mantiene logo a la izquierda y texto a la derecha */
+    align-items: center;
+    justify-content: center;
+    gap: 20px; /* Espacio entre el logo y el bloque de texto */
+}
+
+/* CONTENEDOR DE TEXTOS (La clave está aquí) */
+.logo-texto {
+    display: flex;
+    flex-direction: column; /* Apila el H1 sobre el P */
+    align-items: center;    /* Centra los textos horizontalmente entre sí */
+    text-align: center;
+}
+
+.logo-texto h1 {
+    font-size: 34px;
+    margin: 0;
+    line-height: 1.2;
+}
+
+.logo-texto p {
+    font-size: 20px; /* Un poco más grande para que se lea bien */
+    margin: 5px 0 0 0;
+    font-weight: 300; /* Estilo más ligero para el lema */
+}
+
