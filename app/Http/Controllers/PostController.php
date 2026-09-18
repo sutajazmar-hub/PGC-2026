@@ -15,6 +15,7 @@ class PostController extends Controller
             ->posts()
             ->latest()
             ->paginate(10);
+
         return view('posts.index', compact('posts'));
     }
 
@@ -23,7 +24,7 @@ class PostController extends Controller
      */
     public function create()
     {
-        //
+        return view('posts.create');
     }
 
     /**
@@ -37,7 +38,9 @@ class PostController extends Controller
             'content' => 'required|string',
             'status'  => 'required|in:draft,published'
         ]);
+
         auth()->user()->posts()->create($data);
+
         return redirect()->route('posts.index');
     }
 
@@ -61,8 +64,9 @@ class PostController extends Controller
      * Update the specified resource in storage.
      */
     public function update(Request $request, string $id)
-    $this->authorize('update', $post);
-    
+    {
+        //
+    }
 
     /**
      * Remove the specified resource from storage.

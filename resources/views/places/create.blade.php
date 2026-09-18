@@ -43,13 +43,20 @@
 </select>
 
 <label>Tipo de lugar</label>
-<select name="tipo">
 
-<option value="Lugar Turístico">Lugar Turístico</option>
-<option value="Restaurante">Restaurante</option>
-<option value="Hotel">Hotel</option>
-<option value="Glamping">Glamping</option>
-<option value="Experiencia">Religioso</option>
+<select name="tipo" required>
+
+    <option value="">Seleccione una categoría</option>
+
+    <option value="naturaleza">Lugar Turístico</option>
+
+    <option value="gastronomia">Restaurante</option>
+
+    <option value="religioso">Turismo Religioso</option>
+
+    <option value="hotel">Hospedaje</option>
+
+    <option value="glamping">Glamping</option>
 
 </select>
 

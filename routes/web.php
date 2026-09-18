@@ -6,6 +6,7 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\TurismoController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\PlaceController;
+use App\Http\Controllers\ChatbotController;
 
 /* REGISTER */
 
@@ -44,8 +45,9 @@ Route::get('/dashboard', [TurismoController::class, 'index'])
     ->middleware('auth');
 
 /* POST */
-Route::middleware('auth')->group(function (){
-    Route::resource('posts',PostsController::class);
+/* POST */
+Route::middleware('auth')->group(function () {
+    Route::resource('posts', PostController::class);
 });
 
 /* LUGARES */
@@ -59,5 +61,13 @@ Route::get('/lugares', [PlaceController::class, 'index'])->middleware('auth');
 Route::get('/lugares/crear', [PlaceController::class, 'create'])->middleware('auth');
 Route::post('/lugares', [PlaceController::class, 'store'])->middleware('auth');
 
+/* PLACE */
 Route::get('/municipio/{municipio}', [PlaceController::class, 'municipio']);
 Route::get('/categoria/{tipo}', [PlaceController::class, 'categoria']);
+
+/* CHA BO */
+Route::get('/chatbot', [ChatbotController::class, 'index'])
+    ->name('chatbot.index');
+
+Route::post('/chatbot/preguntar', [ChatbotController::class, 'preguntar'])
+    ->name('chatbot.preguntar');

@@ -34,7 +34,7 @@
 
             <div class="cerrar-menu" onclick="toggleMenu()">✖</div>
 
-            <button onclick="toggleSection('cuenta')">Cuenta</button>
+            <button onclick="toggleSection('cuenta')">Tú perfil</button>
             <div id="cuenta" class="submenu">
             
             <p>{{ auth()->user()->name }}</p>
@@ -62,14 +62,15 @@
             
             <button onclick="toggleSection('categorias')">Categorías</button>
             <div id="categorias" class="submenu">
+                <a href="/categoria/Naturaleza">Lugares Turísticos</a>
 
-                <a href="/categoria/Lugar Turístico">Lugares Turísticos</a>
-                <a href="/categoria/Restaurante">Restaurantes</a>
-                <a href="/categoria/Hotel">Hoteles</a>
+                <a href="/categoria/Gastronomia">Restaurantes</a>
+            
+                <a href="/categoria/Religioso">Turismo Religioso</a>
+            
+                <a href="/categoria/Hotel">Hospedajes</a>
+            
                 <a href="/categoria/Glamping">Glamping</a>
-                <a href="/categoria/Cafetería">Turismo Religioso </a>
-                <a href="/categoria/Experiencia">Experiencias</a>
-                
                 </div>
             
             
@@ -166,6 +167,7 @@ menu.classList.toggle("menu-open");
 
     
     </script>
+    @include('chatbot.widget')
 </body>
 
 </html>
