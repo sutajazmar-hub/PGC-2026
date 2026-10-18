@@ -197,7 +197,7 @@ Las funcionalidades descritas corresponden al alcance implementado y deben ampli
 ### Paso 1. Clonar el repositorio
 
 ```bash
-https://github.com/sutajazmar-hub/RINCON-PROVINCIA-UBATENSE-MACHINE-LEARNING.git
+https://github.com/sutajazmar-hub/PGC-2026
 ```
 
 Ingresar a la carpeta del proyecto:
@@ -357,7 +357,7 @@ Finally, allowing users to ask questions in Spanish and English can improve acce
 
 **Estado actual:** desarrollo y pruebas locales mediante XAMPP.
 
-- **Repositorio GitHub:** https://github.com/sutajazmar-hub/RINCON-PROVINCIA-UBATENSE-MACHINE-LEARNING.git
+- **Repositorio GitHub:** https://github.com/sutajazmar-hub/PGC-2026
 - **Aplicación en producción:** pendiente de despliegue.
 - **URL pública:** agregar cuando el despliegue se encuentre disponible y haya sido probado.
 
@@ -394,6 +394,6 @@ Proyecto académico desarrollado en el contexto del programa de Ingeniería de S
 
 **Creadoras de oportunidades:** Eiddy Estefanía Paez Rincón y Lizeth Jazbleidy Suta Martinez
 
-**Repositorio:** https://github.com/sutajazmar-hub/RINCON-PROVINCIA-UBATENSE-MACHINE-LEARNING.git 
+**Repositorio:** https://github.com/sutajazmar-hub/PGC-2026
 
-**Aplicación publicada:** [Agregar enlace cuando esté desplegada]. 
+**Aplicación publicada:** [Agregar enlace cuando esté desplegada].
